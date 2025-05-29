@@ -1,0 +1,23 @@
+QWidget {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+}
+
+QTableWidget {
+    background-color: #1A1A1A;
+    border: 1px solid #000000;
+    gridline-color: #000000;
+}
+
+QHeaderView::section {
+    color: #A0A0A0;
+    background-color: #262626;
+    font-weight: bold;
+    border: 1px solid #000000;
+    text-align: center;
+
+}
+QTableCornerButton::section {
+    background-color: #262626;
+    border: 1px solid #000000;
+}
