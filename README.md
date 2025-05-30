@@ -22,6 +22,7 @@ Icones e imagens estão na pasta icons/
 Estrutura do Projeto
 
 sistemaf/
+
 │── sistemaf.py Código principal
 
 │── sf.qss Arquivo de estilo (QSS)
