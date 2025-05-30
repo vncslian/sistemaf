@@ -35,5 +35,6 @@ Autores
 
 Desenvolvido por:
 
-Emanuela C Barbosa
-Felix Vinicius L de Freitas
+Emanuela da Conceição Barbosa
+
+Felix Vinicius Liandro de Freitas
