@@ -1,25 +1,35 @@
 # Sistema Financeioro
 Sistema Financeiro (sistemaf.py)
 
-Descrição
+# Descrição
 Este sistema financeiro foi desenvolvido para ajudar na gestão de receitas e despesas, com uma interface gráfica intuitiva e estilizada usando PyQt6 e QSS.
 
-Como instalar e executar
+# Como instalar e executar
 
 Pré-requisitos
 Python 3.12 instalado
 
 Instalar dependências:
+
 pip install PyQt6
 
-Executar o sistema:
+ Criar a pasta Projetosf
+ 
+Mova todos os arquivos para dentro de Projetosf.
+
+ Criar outra pasta icons/ 
+
+Mova todos os arquivos .png parta dentro dela.
+
+# Executar o sistema:
 python sistemaf.py
 
-Estilo e Interface
+# Estilo e Interface
 O código de estilo está no arquivo sf.qss
+
 Icones e imagens estão na pasta icons/
 
-Estrutura do Projeto
+# Estrutura do Projeto
 
 sistemaf/
 
@@ -31,7 +41,7 @@ sistemaf/
 
 │── README.md Documentação do sistema
 
-Autores
+# Autores
 
 Desenvolvido por:
 
