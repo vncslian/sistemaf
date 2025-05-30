@@ -23,8 +23,11 @@ Estrutura do Projeto
 
 sistemaf/
 │── sistemaf.py Código principal
+
 │── sf.qss Arquivo de estilo (QSS)
+
 │── icons/ Pasta com imagens (.png)
+
 │── README.md Documentação do sistema
 
 Autores
