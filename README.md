@@ -1,4 +1,4 @@
-# sistemaf
+# Sistema Financeioro
 Sistema Financeiro (sistemaf.py)
 
 Descrição
